@@ -1,5 +1,5 @@
 # javascriptを書いてみよう
 
 * javascriptとは
-* 環境設定
+* 環境をつくろう
 * 

@@ -1,7 +1,7 @@
 # javascriptを書いてみよう
 
 * [javascriptとは](javascriptとは.md)
-* 環境設定
+* [環境設定](環境設定.md)
 * 簡単な処理
 * 変数
 * 計算

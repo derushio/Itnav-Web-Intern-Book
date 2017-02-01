@@ -1,3 +1,3 @@
 # javascriptを書いてみよう
 
-* 
+* javascriptとは

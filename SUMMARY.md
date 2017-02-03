@@ -6,7 +6,6 @@
     * [環境設定](javascriptを書いてみよう/環境設定.md)
     * [簡単な処理](javascriptを書いてみよう/簡単な処理.md)
     * [変数](javascriptを書いてみよう/変数.md)
-    * [配列](javascriptを書いてみよう/配列.md)
     * [計算](javascriptを書いてみよう/計算.md)
     * [関数](javascriptを書いてみよう/関数.md)
     * [制御構文](javascriptを書いてみよう/制御構文.md)

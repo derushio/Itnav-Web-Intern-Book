@@ -2,6 +2,8 @@
 
 ## 目次
 <!-- toc -->
+
+## HTMLの基本配置を作ろう
 ```html
 <!DOCTYPE html>
 <html>

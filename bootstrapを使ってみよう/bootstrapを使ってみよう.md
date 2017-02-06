@@ -19,7 +19,7 @@ npm install --save bootstrap
 ## HTMLにbootstrapを適用させよう
 `<head>`タグに以下を追加しましょう
 ```html
-<link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap-theme.min.css" />
+<link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
 ```
 
 これでbootstrapが使えるようになりました。

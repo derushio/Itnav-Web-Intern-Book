@@ -6,3 +6,6 @@
 ## HTMLにjQueryの読み込みを書いてみよう
 HTMLのindex.jsを読み込んでいる前に以下のコードを追加しましょう。  
 これでjQueryを利用することができるようになります。
+```html
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+```

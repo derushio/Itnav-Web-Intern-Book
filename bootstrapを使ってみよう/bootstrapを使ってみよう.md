@@ -28,5 +28,5 @@ npm install --save bootstrap
 ## 試しにボタンを変えてみよう
 ボタンのタグを以下にしてみましょう。
 ```html
-
+<button class="btn btn-default" id="generate">生成</button>
 ```

@@ -17,3 +17,26 @@ buttonタグを以下の様に書き換えましょう
 ```
 
 ## JS側の参照をjQueryにしてみましょう。
+jQueryでは、以下のような記述が可能になります。
+```javascript
+var textmap = [
+    ["私は", "あなたは", "あの人は"],
+    ["耳が", "目が", "鼻が"],
+    ["良い", "悪い", "普通"]
+];
+
+function randIndex(array) {
+    return Math.floor(Math.random() * array.length);
+}
+
+$(function() {
+    $("#generate").on("click", function() {
+        $("#text1").text(textmap[0][randIndex(textmap[0])]);
+        $("#text2").text(textmap[1][randIndex(textmap[1])]);
+        $("#text3").text(textmap[2][randIndex(textmap[2])]);
+    });
+});
+```
+`$(function(){})`でHTMLを読み込みこんだ時に動作させるスクリプトを書くことができます。  
+`$("#id")`でidからエレメントを取得することができます。  
+また、取得したエレメントでjQueryの便利な機能を使うことができます。

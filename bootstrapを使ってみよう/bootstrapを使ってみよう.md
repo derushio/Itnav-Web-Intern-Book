@@ -11,8 +11,16 @@ npm init
 いろいろ出るが、最初の名前以外はエンター連打で問題ない。  
 名前は小文字とハイフン`-`で構成される名前にしよう。
 
-以下のコマンドでブートストラップをインストールできます
+以下のコマンドでブートストラップをインストールできます。
 ```bash
 npm install --save bootstrap
 ```
+
+## HTMLにbootstrapを適用させよう
+`<head>`タグに以下を追加しましょう
+```html
+<link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap-theme.min.css" />
+```
+
+これでbootstrapが使えるようになりました。
 

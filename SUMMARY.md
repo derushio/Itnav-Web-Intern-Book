@@ -17,4 +17,5 @@
         * [コンパイル](javascriptを書いてみよう/ES2015/コンパイル.md)
 * [Webページを作ってみよう](Webページを作ってみよう/index.md)
     * [HTMLの基本配置を作ろう](Webページを作ってみよう/HTMLの基本配置を作ろう.md)
+    * [javascriptファイルを関連付けてみよう](Webページを作ってみよう/javascriptファイルを関連付けてみよう.md)
 * [jQueryでWebページを作ってみよう](jQueryでWebページを作ってみよう/index.md)

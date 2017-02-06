@@ -13,3 +13,5 @@
 ```
 
 ## 関連付けさせよう
+`</body>`タグの前に`<script src="script/index.js"></script>`と付け加えましょう。  
+これでhtmlページにjavascriptが関連付けされます。

@@ -27,3 +27,6 @@ npm install --save bootstrap
 
 ## 試しにボタンを変えてみよう
 ボタンのタグを以下にしてみましょう。
+```html
+
+```

@@ -9,3 +9,5 @@ HTMLのindex.jsを読み込んでいる前に以下のコードを追加しま�
 ```html
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 ```
+
+## JS側の参照をjQueryにしてみましょう。

@@ -25,5 +25,5 @@
     * [jQueryで書き直してみよう](Webページを作ってみよう/jQueryで書き直してみよう.md)
 * [jQueryでWebページを作ってみよう](jQueryでWebページを作ってみよう/index.md)
     * [jQueryで書き直してみよう](jQueryでWebページを作ってみよう/jQueryで書き直してみよう.md)
-* [bootstarapを使ってみよう](boottrapを使ってみよう/index.md)
-    * [bootstrapを使ってみよう](bootsｔrapを使ってみよう/bootstrapを使ってみよう.md)
+* [bootstarapを使ってみよう](bootstrapを使ってみよう/index.md)
+    * [bootstrapを使ってみよう](bootstrapを使ってみよう/bootstrapを使ってみよう.md)

@@ -26,3 +26,4 @@
 * [jQueryでWebページを作ってみよう](jQueryでWebページを作ってみよう/index.md)
     * [jQueryで書き直してみよう](jQueryでWebページを作ってみよう/jQueryで書き直してみよう.md)
 * [bootstarapを使ってみよう](bootstarapを使ってみよう/index.md)
+    * [bootstrapを使ってみよう](bootstarapを使ってみよう/bootstrapを使ってみよう.md)

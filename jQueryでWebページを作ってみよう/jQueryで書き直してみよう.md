@@ -10,4 +10,10 @@ HTMLのindex.jsを読み込んでいる前に以下のコードを追加しま�
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 ```
 
+## buttonのonClickを外そう
+buttonタグを以下の様に書き換えましょう
+```html
+<button id="generate">生成</button>
+```
+
 ## JS側の参照をjQueryにしてみましょう。

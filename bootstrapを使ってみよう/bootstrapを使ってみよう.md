@@ -24,3 +24,6 @@ npm install --save bootstrap
 
 これでbootstrapが使えるようになりました。
 
+
+## 試しにボタンを変えてみよう
+ボタンのタグを以下にしてみましょう。
